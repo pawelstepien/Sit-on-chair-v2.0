@@ -1,2 +1,4 @@
 # Sit-on-chair
-Pierwsze warsztaty
+Workshop
+
+github pages: https://pawelstepien.github.io/Sit-on-chair-v2.0/.
